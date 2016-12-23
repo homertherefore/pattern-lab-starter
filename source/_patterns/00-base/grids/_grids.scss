@@ -43,28 +43,26 @@ $grid-gutter: 1rem;
   > * {
     margin-bottom: 1rem;
   }
+
   @each $size in $smart-grid-sizes {
     @include breakpoint($bp--small) {
       &[data-row-items-small="#{$size}"] {
         @include smart-grid($row-items: $size, $gutter: 42px);
       }
     }
-  }
-  @each $size in $smart-grid-sizes {
+
     @include breakpoint($bp--medium) {
       &[data-row-items-medium="#{$size}"] {
         @include smart-grid($row-items: $size, $gutter: 42px);
       }
     }
-  }
-  @each $size in $smart-grid-sizes {
+
     @include breakpoint($bp--large) {
       &[data-row-items-large="#{$size}"] {
         @include smart-grid($row-items: $size, $gutter: 42px);
       }
     }
-  }
-  @each $size in $smart-grid-sizes {
+
     @include breakpoint($bp--xlarge) {
       &[data-row-items-xlarge="#{$size}"] {
         @include smart-grid($row-items: $size, $gutter: 42px);

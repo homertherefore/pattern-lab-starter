@@ -6,8 +6,28 @@
       "comment": ""
     },
     {
+      "name": "$bp--xsmall-max",
+      "value": "0 380px",
+      "comment": ""
+    },
+    {
+      "name": "$bp--xsmall-to-small",
+      "value": "380px 499px",
+      "comment": ""
+    },
+    {
       "name": "$bp--small",
       "value": "500px",
+      "comment": ""
+    },
+    {
+      "name": "$bp--small-max",
+      "value": "0 500px",
+      "comment": ""
+    },
+    {
+      "name": "$bp--small-to-medium",
+      "value": "500px 639px",
       "comment": ""
     },
     {
@@ -16,8 +36,28 @@
       "comment": ""
     },
     {
+      "name": "$bp--medium-max",
+      "value": "0 640px",
+      "comment": ""
+    },
+    {
+      "name": "$bp--medium-to-large",
+      "value": "640px 767px",
+      "comment": ""
+    },
+    {
       "name": "$bp--large",
       "value": "768px",
+      "comment": ""
+    },
+    {
+      "name": "$bp--large-max",
+      "value": "0 768px",
+      "comment": ""
+    },
+    {
+      "name": "$bp--large-to-xl",
+      "value": "768px 1023px",
       "comment": ""
     },
     {
@@ -26,8 +66,28 @@
       "comment": ""
     },
     {
+      "name": "$bp--xlarge-max",
+      "value": "0 1024px",
+      "comment": ""
+    },
+    {
+      "name": "$bp--xlarge-to-xxl",
+      "value": "1024px 1249px",
+      "comment": ""
+    },
+    {
       "name": "$bp--xxlarge",
       "value": "1250px",
+      "comment": ""
+    },
+    {
+      "name": "$bp--xxlarge-max",
+      "value": "0 1250px",
+      "comment": ""
+    },
+    {
+      "name": "$bp--xxlarge-to-xxxl",
+      "value": "1250px 1599px",
       "comment": ""
     },
     {

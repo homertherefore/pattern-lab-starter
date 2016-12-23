@@ -10,7 +10,7 @@
   text-align: center;
   @if $alt {
     background: $c-gray--light;
-    color: $c-red;
+    @include a-link($link: $c-red, $hover: $c-white, $deco--hover: "none");
   }
 }
 

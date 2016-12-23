@@ -14,9 +14,27 @@
 
 // Sign posts
 $bp--xsmall: 380px;
+$bp--xsmall-max: 0 380px;
+$bp--xsmall-to-small: 380px 499px;
+
 $bp--small: 500px;
+$bp--small-max: 0 500px;
+$bp--small-to-medium: 500px 639px;
+
 $bp--medium: 640px;
+$bp--medium-max: 0 640px;
+$bp--medium-to-large: 640px 767px;
+
 $bp--large: 768px;
+$bp--large-max: 0 768px;
+$bp--large-to-xl: 768px 1023px;
+
 $bp--xlarge: 1024px;
+$bp--xlarge-max: 0 1024px;
+$bp--xlarge-to-xxl: 1024px 1249px;
+
 $bp--xxlarge: 1250px;
+$bp--xxlarge-max: 0 1250px;
+$bp--xxlarge-to-xxxl: 1250px 1599px;
+
 $bp--xxxlarge: 1600px;

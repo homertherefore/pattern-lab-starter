@@ -25,14 +25,15 @@
     "bourbon": "^4.2.7",
     "normalize-scss": "normalize.scss#^5.0.3",
     "singularity": "singularitygs#^1.7.0",
-    "breakpoint-sass": "^2.7.0"
+    "breakpoint-sass": "^2.7.0",
+    "lodash": "^4.17.2"
+    "domready": "^1.0.8",
+    "jquery": "^2.1.4",
+    "drupal": "http://cgit.drupalcode.org/drupal/plain/core/misc/drupal.js?h=8.1.7",
+    "holderjs": "^2.9.4"
   },
   "devDependencies Note": "All dev dependencies below are here to 'fake' Drupal js behavior in PL",
   "devDependencies": {
-    "domready": "^1.0.8",
-    "jquery": "^2.1.4",
     "underscore": "^1.8.3",
-    "drupal": "http://cgit.drupalcode.org/drupal/plain/core/misc/drupal.js?h=8.1.7",
-    "holderjs": "^2.9.4"
   }
 }
